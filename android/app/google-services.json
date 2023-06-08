@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802218842980",
+    "project_id": "photo-sharing-clone-app-88e0c",
+    "storage_bucket": "photo-sharing-clone-app-88e0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802218842980:android:63093a6fa7eabf991c7871",
+        "android_client_info": {
+          "package_name": "ahmed.photo_sharing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802218842980-l2jm47n7o90gntreuhemlbjqnjsc5t4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPJbvS_TVKtvRJiaJ-Xu9wQdkp5J3Ef0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802218842980-l2jm47n7o90gntreuhemlbjqnjsc5t4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
